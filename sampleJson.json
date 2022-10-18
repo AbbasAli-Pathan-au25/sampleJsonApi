@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "data": "FIRCO_ORCL"
+  },
+  {
+    "id": "2",
+    "data": "FLEX_UAT_ORCLKW1030"
+  },
+  {
+    "id": "3",
+    "data": "SWIFT_SIDEDB_SS"
+  },
+  {
+    "id": "4",
+    "data": "SNAP_VIPERA_CC"
+  },
+  {
+    "id": "5",
+    "data": "FLEX_UAT_ORCLEG"
+  },
+  {
+    "id": "6",
+    "data": "SNAP_VIPERA_SS"
+  },
+  {
+    "id": "7",
+    "data": "FLEX_UAT_ORCLBH"
+  },
+  {
+    "id": "8",
+    "data": "MOL_UAT_ORCL"
+  },
+  {
+    "id": "9",
+    "data": "TradeDB"
+  },
+  {
+    "id": "10",
+    "data": "MOL_ORCL"
+  }
+]
